@@ -43,6 +43,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - conda-forge/sphinx
     - mxr-conda
     - agcopenhaver
     - oblute
